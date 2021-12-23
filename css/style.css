@@ -1,0 +1,22 @@
+body{
+    background: white;
+}
+.container{
+    margin: 0 auto;
+    width: 1440px;
+    outline: 3px solid pink;
+}
+header{
+    background: url(../img/Rectangle.png) no-repeat;
+    background-size: cover;
+    width: 1400px;
+    height: 600px;
+    margin-left: 40px;
+}
+.header{
+    background: url(../img/lok.png) no-repeat;
+    background-size: cover;
+    width: 280px;
+    height: 580px;
+    margin-left: 60px;
+}
