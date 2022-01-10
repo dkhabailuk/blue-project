@@ -191,7 +191,8 @@ footer{
     text-align:left;
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
-    margin-left: 120px;
+    margin-left: 90px;
+    margin-top: -180px;
 } 
 .block-video{
     height: 390px;
@@ -215,7 +216,7 @@ footer{
     justify-content: space-evenly;
     align-items: center;
     height: 390px;
-    margin-top: 90px;
+    margin-top: 60px;
 }
 .name{
     color:#2F80ED;
@@ -269,7 +270,7 @@ footer{
 .rectangle1{
     background: url(../img/r1.png) no-repeat;
     background-size:100%;
-    width: 1370px;
+    width: 1350px;
     height: 1190px;
     padding-top: 80px;
 }
@@ -335,4 +336,86 @@ padding-left: 100px;
     color: #636363;
     font-size: 18px;
     font-family: 'Montserrat', sans-serif;
+}
+.what-will-be{
+    text-align:left;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 95px;
+}
+.will-be{
+    display: grid;
+    grid-template-columns: 380px 230px;
+    grid-template-rows: 100px 175px 18px;
+    column-gap: 40px;
+    row-gap: 60px;
+    padding-left: 100px;
+    padding-bottom: 80px;
+    padding-top:30px;
+}
+.count{
+    font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  color: #2F80ED; 
+  font-size: 24px;
+}
+.lection{
+    color: #636363;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.two-l{
+    margin-top: -20px;
+}
+.three-l{
+    margin-top: -20px;
+}
+.four-l{
+    margin-top: -3px;
+}
+.count2{
+    font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  color: #2F80ED; 
+  font-size: 24px;
+}
+.CustDev{
+    background: url(../img/eng.png) no-repeat;
+    background-size:100%;
+    width: 1410px;
+    height: 600px;
+    margin-left: 30px;
+    margin-bottom: 80px;
+    display: flex;
+}
+.title-2-block{
+    text-align:left;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    padding-left:90px;
+    padding-top: 70px;
+}
+.cust-blocks{
+    display: grid;
+    grid-template-columns: 330px 330px 330px;
+    grid-template-rows: auto;
+    padding-left: 90px;
+}
+.custs-titles{
+    font-family: 'Montserrat', sans-serif;
+    color: #2F80ED; 
+    font-size: 19px;
+}
+.ellipse-kolo{
+    justify-content: flex-end;
+    padding-left: 100px;
+    margin-top: -55px;
+}
+.custs-column{
+    flex-direction: column;
+}
+.custs-texts{
+    color: #636363;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
 }
